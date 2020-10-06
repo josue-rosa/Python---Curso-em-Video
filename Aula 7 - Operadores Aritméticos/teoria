@@ -1,0 +1,27 @@
+Operadores Binários
+soma
+5+2 == 7
+
+subtração
+5-2 == 3
+
+Multiplicação
+5*2 == 10
+
+Divisão
+5/2 == 2.5
+
+Potencia
+5**2 == 25
+
+Divisao inteira
+5//2 == 2
+
+Resto da divisao
+5%2 == 1
+
+Ordem de Precedência
+1. parenteses
+2. potencias
+3. multiplicação, divisao, divisao inteira, resto da divisao
+4. soma, subtração
