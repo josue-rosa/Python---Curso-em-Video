@@ -13,6 +13,10 @@ Divisão
 
 Potencia
 5**2 == 25
+pow(5,2) - função interna
+
+Raiz quadrada
+81**(1/2) - raiz quadrada é a mesma coisa que a pontencia deste numero por 1/2
 
 Divisao inteira
 5//2 == 2
@@ -20,8 +24,12 @@ Divisao inteira
 Resto da divisao
 5%2 == 1
 
+
+
+
 Ordem de Precedência
 1. parenteses
 2. potencias
 3. multiplicação, divisao, divisao inteira, resto da divisao
 4. soma, subtração
+
