@@ -11,4 +11,3 @@ valor_diaria = 60 * qtd_dias
 valor_km_rodado = 0.15 * km_percorridos
 
 print(f'O valor da diária ficou em R$ {valor_diaria:.2f} e o valor do Km ficou R$ {valor_km_rodado:.2f}\nSomando R$ {valor_diaria+valor_km_rodado:.2f}')
-
