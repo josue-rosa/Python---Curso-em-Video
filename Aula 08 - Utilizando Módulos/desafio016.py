@@ -6,3 +6,4 @@ Ex: 6.127 tem a parte inteira 6
 from math import trunc
 num = float(input("Digite um numero: "))
 print(f'Este numero tem a parte inteira {trunc(num)}')
+print(f'Este numero tem a parte inteira {int(num)}') # convertendo para int e sem precisar importar um modulo

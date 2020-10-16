@@ -1,11 +1,25 @@
 """ um professor quer sortear um dos seus quatro alunos para apagar o quadro.
 Fazer programa que ajude ele, lendo o nome deles e escrevendo o nome do escolhido
 """
-import random
 
+from random import choice
 alunos = ['Josué', 'Davi', 'Andreia', 'Paloma']
-sorteado = random.choice(alunos)
+sorteado = choice(alunos)
 print(sorteado)
+
+
+# Resposta do Guanabara
+"""from random import choice
+n1 = str(input('Primeiro aluno: '))
+n2 = str(input('segundo aluno: '))
+n3 = str(input('Terceiro aluno'))
+n4 = str(input('Quarto aluno: '))
+lista = [n1, n2, n3, n4]
+escolhido = choice(lista)
+print(f'O aluno escolhido foi {escolhido}')
+"""
+
+
 
 
 """
