@@ -11,12 +11,12 @@ print(frase[9::3]) # inicia no 9 e vai até o final, pulando de 3 em 3.
 """
 ANÁLISE
 """
-print(len(frase)) # len mostra o comprimento/quatidade de caracteres na string
-print(frase.count('o')) # conta quantas vezes aparece a letra "o" minuscula
+print(len(frase)) # len mostra o comprimento/quantidade de caracteres na string
+print(frase.count('o')) # conta quantas vezes aparece a letra "o" minúscula
 print(frase.count('o', 0, 13)) # conta quantas vezes aparece a letra 'o' no intervalo de 0 ao 13 SEM contar o 13
 print(frase.find('deo'))# a partir da posição 11
 print(frase.find('Android')) # Retornará -1. Que significa que não foi encontrado
-print(frase.rfind('A')) # procura do final da o inicio
+print(frase.rfind('A')) # procura do final da o inicio. Ou seja, da direita para a esquerda
 
 # usando OPERADOR "in"
 print('Curso' in frase) # Existe "Curso" na frase?

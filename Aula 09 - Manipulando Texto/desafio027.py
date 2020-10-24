@@ -7,4 +7,8 @@ Ultimo: Souza
 """
 
 nome = str(input('Digite seu nome completo: ')).strip().title()
-print(nome.count(" "))
+Splitter_name = nome.split()
+
+print('Olá. Prazer em te conhecer')
+print(f'Seu primeiro nome é {  Splitter_name[0]}')
+print(f'Seu último nome é {Splitter_name[len(Splitter_name)-1]}')
