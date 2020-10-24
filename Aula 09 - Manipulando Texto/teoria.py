@@ -16,10 +16,11 @@ print(frase.count('o')) # conta quantas vezes aparece a letra "o" minuscula
 print(frase.count('o', 0, 13)) # conta quantas vezes aparece a letra 'o' no intervalo de 0 ao 13 SEM contar o 13
 print(frase.find('deo'))# a partir da posição 11
 print(frase.find('Android')) # Retornará -1. Que significa que não foi encontrado
+print(frase.rfind('A')) # procura do final da o inicio
 
 # usando OPERADOR "in"
 print('Curso' in frase) # Existe "Curso" na frase?
-
+# Saida vai True ou False
 """
 TRANSFORMAÇÃO
 """

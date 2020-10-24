@@ -20,7 +20,7 @@ print(frase.upper().count('O'))
 frase2 = '   Curso em video Python   ' # contem 27 caracteres com os espaços
 print(len(frase2)) # vai contar os espaços e aumentar o numero de caracteres.
 # Para resolver
-print(len(frase2.strip())) # com o metodos strip() que remove os espaços, volta a ter 21 caracteres
+print(len(frase2.strip())) # com o método strip() que remove os espaços, volta a ter 21 caracteres
 
 dividido = frase.split()
 print(dividido[2] [3])

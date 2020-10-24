@@ -5,3 +5,6 @@ Ex: Ana Maria de Souza
 Primeiro: Ana
 Ultimo: Souza
 """
+
+nome = str(input('Digite seu nome completo: ')).strip().title()
+print(nome.count(" "))
