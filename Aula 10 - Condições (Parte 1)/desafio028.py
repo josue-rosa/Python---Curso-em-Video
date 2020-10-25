@@ -3,10 +3,14 @@ peça para o usuário tentar descobrir qual foi o numero escolhido pelo computad
 O programa devera escrever na tela se o usuário venceu ou perdeu."""
 
 import random
-print('Pensei em um numero entre 1 e 5')
+from time import sleep
+
+print('Pensei em um numero entre 0 e 5')
 computer = random.randint(0, 5)
-num = int(input('Digite o seu numero: '))
-if num == computer:
+jogador = int(input('Digite o seu numero: '))
+print('Processando...')
+sleep(1)
+if jogador == computer:
     print('Acertou. Parabens! ')
 else:
-    print(f'Errou. Pensei no {computer}. Tente outra vez')
+    print(f'Errou. Pensei no número {computer}. Tente outra vez')
