@@ -1,4 +1,4 @@
 {
-    "files.autoSave": "onFocusChange",
-    "python.pythonPath": "C:\\Python3.8x64\\python.exe"
+    "python.pythonPath": "env\\Scripts\\python.exe",
+    "files.autoSave": "afterDelay"
 }
