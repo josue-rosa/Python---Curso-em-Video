@@ -9,7 +9,6 @@ seu programa também devera mostrar o tempo que falta ou que passou do prazo
 """
 from datetime import date
 
-
 ano_jovem = int(input('Informe seu ano de nascimento: '))
 ano = date.today().year - ano_jovem
 if ano < 18:
@@ -22,4 +21,3 @@ elif ano == 18:
 else:
     print(f'Você tem {ano} anos')
     print(f'Já passou do tempo de se alistar. \nVocê Você deveria ter se alistado há {ano - 18} anos')
-    
