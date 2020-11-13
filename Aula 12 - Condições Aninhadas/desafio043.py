@@ -5,4 +5,3 @@
 - em até 2x no cartao: preço normal
 - em 3x ou mais no cartão: 20% juros
 """
- 
