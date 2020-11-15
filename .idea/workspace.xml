@@ -20,16 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb608e9c-2968-4bc4-a124-51f6423bceeb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Python---Curso-em-Video.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Josue_Rosa.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/estudos-python-curso_em_video.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 12 - Condições Aninhadas/desafio044.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 12 - Condições Aninhadas/desafio044.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 12 - Condições Aninhadas/desafio045.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 12 - Condições Aninhadas/desafio045.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/Aula 13a.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/Aula 13a.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,22 +158,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605478981918" />
-    <state width="233" height="613" key="GridCell.Tab.0.bottom" timestamp="1605480736026">
+    <state width="233" height="613" key="GridCell.Tab.0.bottom" timestamp="1605481299303">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="233" height="613" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605480736026" />
-    <state width="233" height="613" key="GridCell.Tab.0.center" timestamp="1605480736025">
+    <state width="233" height="613" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605481299303" />
+    <state width="233" height="613" key="GridCell.Tab.0.center" timestamp="1605481299303">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="233" height="613" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605480736025" />
-    <state width="233" height="613" key="GridCell.Tab.0.left" timestamp="1605480736025">
+    <state width="233" height="613" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605481299303" />
+    <state width="233" height="613" key="GridCell.Tab.0.left" timestamp="1605481299303">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="233" height="613" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605480736025" />
-    <state width="233" height="613" key="GridCell.Tab.0.right" timestamp="1605480736026">
+    <state width="233" height="613" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605481299303" />
+    <state width="233" height="613" key="GridCell.Tab.0.right" timestamp="1605481299303">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="233" height="613" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605480736026" />
+    <state width="233" height="613" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605481299303" />
     <state x="184" y="11" width="998" height="708" key="SettingsEditor" timestamp="1605479413269">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
