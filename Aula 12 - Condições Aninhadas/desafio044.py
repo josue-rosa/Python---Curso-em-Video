@@ -31,4 +31,3 @@ elif opcao == 4:
     print(f'Sua compra será parcelada em {total_parcelas}x de R$ {parcela:.2f} COM JUROS. O valor do final do produto será R$ {parcelado_3x_mais_cartao:.2f}')
 else:
     print('OPÇÃO INVÁLIDA. Tente novamente')
-

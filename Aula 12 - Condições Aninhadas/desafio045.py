@@ -19,9 +19,9 @@ print('PÔ!!!')
 print('-=' * 15)
 print(f'O computador jogou: {itens[computador]}')
 print(f'O jogador jogou {itens[jogador]}')
-print('-=' *15)
+print('-=' * 15)
 
-if computador == 0: # computador jogou PEDRA
+if computador == 0:  # computador jogou PEDRA
     if jogador == 0:
         print('EMPATOU')
     elif jogador == 1:
@@ -31,7 +31,7 @@ if computador == 0: # computador jogou PEDRA
     else:
         print('JOGADA INVÁLIDA') 
 
-elif computador == 1: # COMPUTADOR jogou PAPEL
+elif computador == 1:  # COMPUTADOR jogou PAPEL
     if jogador == 1:
         print('EMPATOU')
     elif jogador == 0:
@@ -41,7 +41,7 @@ elif computador == 1: # COMPUTADOR jogou PAPEL
     else:
         print('JOGADA INVÁLIDA')
 
-elif computador == 2: # COMPUTADOR JOGOU TESOURA
+elif computador == 2:  # COMPUTADOR JOGOU TESOURA
     if jogador == 2:
         print('EMPATOU')
     elif jogador == 0:
