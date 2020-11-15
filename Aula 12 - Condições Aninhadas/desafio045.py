@@ -11,6 +11,11 @@ jogador = int(input('''Qual é a sua jogada?
 [ 1 ] - PAPEL
 [ 2 ] - TESOURA
 '''))
+print('JÔ')
+sleep(1)
+print('KEN')
+sleep(1)
+print('PÔ!!!')
 print('-=' * 15)
 print(f'O computador jogou: {itens[computador]}')
 print(f'O jogador jogou {itens[jogador]}')
@@ -30,18 +35,18 @@ elif computador == 1: # COMPUTADOR jogou PAPEL
     if jogador == 1:
         print('EMPATOU')
     elif jogador == 0:
-        print()
+        print('COMPUTADOR VENCE')
     elif jogador == 2:
-        print('')
+        print('JOGADOR VENCEU')
     else:
         print('JOGADA INVÁLIDA')
 
 elif computador == 2: # COMPUTADOR JOGOU TESOURA
     if jogador == 2:
-        print('')
+        print('EMPATOU')
     elif jogador == 0:
-        print('')
+        print('JOGADOR VENCE')
     elif jogador == 1:
-        print('')
+        print('COMPUTADOR VENCE')
     else:
         print('JOGADA INVÁLIDA')

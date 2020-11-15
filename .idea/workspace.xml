@@ -26,7 +26,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2a35b43-2d2e-4ad5-a0b6-11ff96d08d63" name="Default Changelist" comment="update" />
+    <list default="true" id="d2a35b43-2d2e-4ad5-a0b6-11ff96d08d63" name="Default Changelist" comment="update">
+      <change beforePath="$PROJECT_DIR$/Aula 12 - Condições Aninhadas/desafio045.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 12 - Condições Aninhadas/desafio045.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
