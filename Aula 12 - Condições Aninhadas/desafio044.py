@@ -8,10 +8,10 @@
 valor_produto = float(input('Informe o valor do produto: '))
 
 opcao = int(input("""Informe a forma de pagamento.
-1 - Para pagamento á vista/Cheque: com 10% de desconto.
-2 - A vista no cartão: 5% de desconto.
-3 - em 2x no cartão: Preço normal.
-4 - em 3x ou mais no cartão: 20% de juros.
+[1] - Para pagamento á vista/Cheque: com 10% de desconto.
+[2] - A vista no cartão: 5% de desconto.
+[3] - em 2x no cartão: Preço normal.
+[4] - em 3x ou mais no cartão: 20% de juros.
 """))
 
 if opcao == 1:
@@ -23,6 +23,12 @@ elif opcao == 2:
 elif opcao == 3:
     parcelado_2x_cartao = valor_produto / 2
     print(f'Nesta condição, você não tem desconto. O valor de {valor_produto:.2f} parcelado em 2x ficou R$ {parcelado_2x_cartao:.2f}')
-else:
+elif opcao == 4:
+    print('Atenção. Nesta forma de pagamento, há 20% de juros')
     parcelado_3x_mais_cartao = valor_produto + (valor_produto * 0.20)
-    print(f'Nesta condição, você tem 20% de juros. O valor do produto fica R$ {parcelado_3x_mais_cartao:.2f}')
+    total_parcelas = int(input('Quantidade de parcelas? '))
+    parcela = parcelado_3x_mais_cartao / total_parcelas
+    print(f'Sua compra será parcelada em {total_parcelas}x de R$ {parcela:.2f} COM JUROS. O valor do final do produto será R$ {parcelado_3x_mais_cartao:.2f}')
+else:
+    print('OPÇÃO INVÁLIDA. Tente novamente')
+

@@ -10,11 +10,12 @@
 peso = float(input('Informe o seu peso em Kg: '))
 altura = float(input('Informe a sua altura em M: '))
 
-imc = peso / (altura * altura)
+imc = peso / (altura ** 2)
+print(f'Seu IMC é {imc:.1f}')
 
 if imc < 18.5:
     print('Abaixo do peso')
-elif imc >= 18.5 and imc < 25:
+elif imc >= 18.5 and imc < 25: # ou 18.5 <= imc < 25:
     print('Peso Ideal')
 elif imc >= 25 and imc < 30:
     print('Sobrepeso')
