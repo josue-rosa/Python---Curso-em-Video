@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="eb608e9c-2968-4bc4-a124-51f6423bceeb" name="Default Changelist" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio047.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio047.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,7 +201,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605481960000</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update">
+      <created>1605482876485</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605482876485</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update">
+      <created>1605482890707</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605482890707</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,22 +239,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605478981918" />
-    <state width="676" height="411" key="GridCell.Tab.0.bottom" timestamp="1605482846261">
+    <state width="676" height="257" key="GridCell.Tab.0.bottom" timestamp="1605482982992">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="676" height="411" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605482846261" />
-    <state width="676" height="411" key="GridCell.Tab.0.center" timestamp="1605482846261">
+    <state width="676" height="257" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605482982992" />
+    <state width="676" height="257" key="GridCell.Tab.0.center" timestamp="1605482982992">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="676" height="411" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605482846261" />
-    <state width="676" height="411" key="GridCell.Tab.0.left" timestamp="1605482846261">
+    <state width="676" height="257" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605482982992" />
+    <state width="676" height="257" key="GridCell.Tab.0.left" timestamp="1605482982992">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="676" height="411" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605482846261" />
-    <state width="676" height="411" key="GridCell.Tab.0.right" timestamp="1605482846261">
+    <state width="676" height="257" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605482982992" />
+    <state width="676" height="257" key="GridCell.Tab.0.right" timestamp="1605482982992">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="676" height="411" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605482846261" />
+    <state width="676" height="257" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605482982992" />
     <state x="184" y="11" width="998" height="708" key="SettingsEditor" timestamp="1605479413269">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
