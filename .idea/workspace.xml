@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb608e9c-2968-4bc4-a124-51f6423bceeb" name="Default Changelist" comment="update" />
+    <list default="true" id="eb608e9c-2968-4bc4-a124-51f6423bceeb" name="Default Changelist" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio054.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio054.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +52,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -59,7 +62,7 @@
       <recent name="C:\Users\Josue.Rosa.CETIL\Desktop\GitHub\Python\Python---Curso-em-Video\Aula 13 - Estrutura de repetição for" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.desafio055">
+  <component name="RunManager" selected="Python.desafio054">
     <configuration name="desafio047" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python---Curso-em-Video" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,8 +170,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.desafio055" />
         <item itemvalue="Python.desafio054" />
+        <item itemvalue="Python.desafio055" />
         <item itemvalue="Python.desafio050" />
         <item itemvalue="Python.desafio049" />
         <item itemvalue="Python.desafio047" />
@@ -250,29 +253,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605478981918" />
-    <state width="676" height="253" key="GridCell.Tab.0.bottom" timestamp="1605529365524">
+    <state width="1323" height="219" key="GridCell.Tab.0.bottom" timestamp="1605561972773">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="676" height="253" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1474.864@0.0.1366.728" timestamp="1605529365524" />
+    <state width="1323" height="219" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1474.864@0.0.1366.728" timestamp="1605561972773" />
     <state width="676" height="257" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605502247590" />
-    <state width="676" height="253" key="GridCell.Tab.0.center" timestamp="1605529365524">
+    <state width="1323" height="219" key="GridCell.Tab.0.center" timestamp="1605561972773">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="676" height="253" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1474.864@0.0.1366.728" timestamp="1605529365524" />
+    <state width="1323" height="219" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1474.864@0.0.1366.728" timestamp="1605561972773" />
     <state width="676" height="257" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605502247590" />
-    <state width="676" height="253" key="GridCell.Tab.0.left" timestamp="1605529365516">
+    <state width="1323" height="219" key="GridCell.Tab.0.left" timestamp="1605561972773">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="676" height="253" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1474.864@0.0.1366.728" timestamp="1605529365516" />
+    <state width="1323" height="219" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1474.864@0.0.1366.728" timestamp="1605561972773" />
     <state width="676" height="257" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605502247590" />
-    <state width="676" height="253" key="GridCell.Tab.0.right" timestamp="1605529365524">
+    <state width="1323" height="219" key="GridCell.Tab.0.right" timestamp="1605561972773">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="676" height="253" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1474.864@0.0.1366.728" timestamp="1605529365524" />
+    <state width="1323" height="219" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1474.864@0.0.1366.728" timestamp="1605561972773" />
     <state width="676" height="257" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605502247590" />
-    <state x="184" y="11" width="998" height="708" key="SettingsEditor" timestamp="1605479413269">
+    <state x="117" y="19" width="998" height="708" key="SettingsEditor" timestamp="1605558884550">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="117" y="19" key="SettingsEditor/0.0.1366.728/1366.0.1474.864@0.0.1366.728" timestamp="1605558884549" />
     <state x="184" y="11" width="998" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1605479413269" />
     <state x="550" y="112" key="Vcs.Push.Dialog.v2" timestamp="1605481385851">
       <screen x="0" y="0" width="1366" height="728" />

@@ -4,13 +4,13 @@ from datetime import date
 
 maior = 0
 menor = 0
-for c in range(1, 5):
+
+for c in range(1, 8):
     ano_nasc = int(input('Informe o ano de nascimento '))
-    maioridade = date.today().year - ano_nasc
-    if maioridade >= 21:
-        maior = c
+    idade = date.today().year - ano_nasc
+    if idade >= 21:
+        maior += 1
     else:
-        menor = c
+        menor += 1
 print(maior)
 print(menor)
-
