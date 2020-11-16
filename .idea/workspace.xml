@@ -19,14 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb608e9c-2968-4bc4-a124-51f6423bceeb" name="Default Changelist" comment="update">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio051.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio051.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio052.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio052.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio053.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio053.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio054.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio054.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio055.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio055.py" afterDir="false" />
-    </list>
+    <list default="true" id="eb608e9c-2968-4bc4-a124-51f6423bceeb" name="Default Changelist" comment="update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
