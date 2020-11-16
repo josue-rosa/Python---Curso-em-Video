@@ -1,10 +1,16 @@
-"""
-programa que leia 6 numero inteiros e mostre a soma apenas daqueles
-que forem pares. Se o valor digitado for impar, desconsidere-o.
-"""
-soma = 0
-for c in range(1, 7):
-    num = int(input('Digite um número: '))
-    if num % 2 == 0:
-        soma += num
-print(soma)
+"""programa que leia o ano de nascimento de 7 pessoas.
+No final, mostre quantas pessoas ainda não atingiram a maioridade e quantas já são maiores"""
+from datetime import date
+
+maior = 0
+menor = 0
+for c in range(1, 5):
+    ano_nasc = int(input('Informe o ano de nascimento '))
+    maioridade = date.today().year - ano_nasc
+    if maioridade >= 21:
+        maior = c
+    else:
+        menor = c
+print(maior)
+print(menor)
+

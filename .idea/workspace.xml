@@ -21,8 +21,11 @@
   <component name="ChangeListManager">
     <list default="true" id="eb608e9c-2968-4bc4-a124-51f6423bceeb" name="Default Changelist" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio049.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio049.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio050.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio050.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio051.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio051.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio052.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio052.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio053.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio053.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio054.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio054.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio055.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio055.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,56 +59,14 @@
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Josue.Rosa.CETIL\Desktop\GitHub\Python\Python---Curso-em-Video\Aula 13 - Estrutura de repetição for" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Josue.Rosa.CETIL\Desktop\GitHub\Python\Python---Curso-em-Video" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Josue.Rosa.CETIL\Desktop\GitHub\Python\Python---Curso-em-Video\Aula 13 - Estrutura de repetição for" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.desafio050">
-    <configuration name="Aula 13a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python---Curso-em-Video" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/Aula 13a.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="desafio046" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python---Curso-em-Video" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio046.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.desafio055">
     <configuration name="desafio047" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python---Curso-em-Video" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,13 +130,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="desafio054" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python---Curso-em-Video" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio054.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio055" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python---Curso-em-Video" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio055.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.desafio055" />
+        <item itemvalue="Python.desafio054" />
         <item itemvalue="Python.desafio050" />
         <item itemvalue="Python.desafio049" />
         <item itemvalue="Python.desafio047" />
-        <item itemvalue="Python.desafio046" />
-        <item itemvalue="Python.Aula 13a" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +219,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605482890707</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update">
+      <created>1605526648768</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605526648768</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update">
+      <created>1605526662805</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605526662805</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -240,25 +257,25 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605478981918" />
-    <state width="676" height="257" key="GridCell.Tab.0.bottom" timestamp="1605526439777">
+    <state width="676" height="253" key="GridCell.Tab.0.bottom" timestamp="1605529365524">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="676" height="257" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1474.864@0.0.1366.728" timestamp="1605526439777" />
+    <state width="676" height="253" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1474.864@0.0.1366.728" timestamp="1605529365524" />
     <state width="676" height="257" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605502247590" />
-    <state width="676" height="257" key="GridCell.Tab.0.center" timestamp="1605526439777">
+    <state width="676" height="253" key="GridCell.Tab.0.center" timestamp="1605529365524">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="676" height="257" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1474.864@0.0.1366.728" timestamp="1605526439777" />
+    <state width="676" height="253" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1474.864@0.0.1366.728" timestamp="1605529365524" />
     <state width="676" height="257" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605502247590" />
-    <state width="676" height="257" key="GridCell.Tab.0.left" timestamp="1605526439777">
+    <state width="676" height="253" key="GridCell.Tab.0.left" timestamp="1605529365516">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="676" height="257" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1474.864@0.0.1366.728" timestamp="1605526439777" />
+    <state width="676" height="253" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1474.864@0.0.1366.728" timestamp="1605529365516" />
     <state width="676" height="257" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605502247590" />
-    <state width="676" height="257" key="GridCell.Tab.0.right" timestamp="1605526439777">
+    <state width="676" height="253" key="GridCell.Tab.0.right" timestamp="1605529365524">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="676" height="257" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1474.864@0.0.1366.728" timestamp="1605526439777" />
+    <state width="676" height="253" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1474.864@0.0.1366.728" timestamp="1605529365524" />
     <state width="676" height="257" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605502247590" />
     <state x="184" y="11" width="998" height="708" key="SettingsEditor" timestamp="1605479413269">
       <screen x="0" y="0" width="1366" height="728" />

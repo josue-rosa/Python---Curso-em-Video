@@ -1,10 +1,14 @@
-"""
-programa que leia 6 numero inteiros e mostre a soma apenas daqueles
-que forem pares. Se o valor digitado for impar, desconsidere-o.
-"""
-soma = 0
-for c in range(1, 7):
-    num = int(input('Digite um número: '))
-    if num % 2 == 0:
-        soma += num
-print(soma)
+"""Programa que leia o peso de cinco pessoas. No final, mostre qual foi
+o maior e menor peso lidos"""
+
+
+maior = 0
+menor = 0
+for c in range(1, 6):
+    peso = float(input('Informe seu peso: {kg} '))
+    if peso > peso:
+        maior = peso
+    else:
+        menor = peso
+print(maior)
+print(menor)
