@@ -7,9 +7,9 @@ Portanto, ele será divisivel 2 vezes.
 ''')
 numero = int(input('Digite um numero: '))
 for c in range(1, numero + 1):
-    if numero % c == 0:
-        print('\033[34m', end=' ')
-        total += 1
+    if numero % c == 0:  # Testa se o numero é divisivel pelo numero do contador
+        print('\033[36m', end=' ')
+        total += 1  # contador de quantas vezes ele foi divisivel
     else:
         print('\033[31m', end=' ')
     print(f'{c}', end=' ')
