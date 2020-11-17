@@ -2,13 +2,8 @@
 o maior e menor peso lidos"""
 
 
-maior = 0
-menor = 0
-for c in range(1, 6):
+maior_peso = 0
+menor_peso = 0
+for c in range(1, 4):
     peso = float(input('Informe seu peso: {kg} '))
-    if peso > peso:
-        maior = peso
-    else:
-        menor = peso
-print(maior)
-print(menor)
+    if peso == peso:

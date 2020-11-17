@@ -12,5 +12,5 @@ for c in range(1, 8):
         maior += 1
     else:
         menor += 1
-print(maior)
-print(menor)
+print(f'{maior} pessoa(s) são MAIORES de idade')
+print(f'{menor} pessoa(s) são MENORES de idade')
