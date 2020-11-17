@@ -21,9 +21,10 @@
   <component name="ChangeListManager">
     <list default="true" id="eb608e9c-2968-4bc4-a124-51f6423bceeb" name="Default Changelist" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio053.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio053.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio054.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio054.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio055.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio055.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio046.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio046-Fogos de artificio.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio047.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio047.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio048.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio048.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio051.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio051.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,8 +65,8 @@
       <recent name="C:\Users\Josue.Rosa.CETIL\Desktop\GitHub\Python\Python---Curso-em-Video\Aula 13 - Estrutura de repetição for" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.desafio053">
-    <configuration name="desafio049" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.desafio048">
+    <configuration name="desafio046-Fogos de artificio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python---Curso-em-Video" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,7 +78,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio049.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio046-Fogos de artificio.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio050" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio047" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python---Curso-em-Video" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,7 +99,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio050.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio047.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio048" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python---Curso-em-Video" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio048.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,27 +142,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio053.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="desafio054" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python---Curso-em-Video" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio054.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,15 +173,18 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.desafio048" />
+        <item itemvalue="Python.desafio047" />
+        <item itemvalue="Python.desafio046-Fogos de artificio" />
         <item itemvalue="Python.desafio053" />
         <item itemvalue="Python.desafio055" />
-        <item itemvalue="Python.desafio054" />
-        <item itemvalue="Python.desafio050" />
-        <item itemvalue="Python.desafio049" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="4" Folder0="C:\Users\Josue.Rosa.CETIL\Desktop\GitHub\Python\Customização Pycharm\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder1="C:\Users\Josue.Rosa.CETIL\Desktop\GitHub\Python\Customização Pycharm\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder2="C:\Users\Josue.Rosa.CETIL\Desktop\GitHub\Python\Customização Pycharm\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder3="C:\Users\Josue.Rosa.CETIL\Desktop\GitHub\Python\Customização Pycharm\IntelliJ.Portuguese.Brazil.Dictionary-master" CustomDictionaries="4" CustomDictionary0="C:\Users\Josue.Rosa.CETIL\Desktop\GitHub\Python\Customização Pycharm\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil.dic" CustomDictionary1="C:\Users\Josue.Rosa.CETIL\Desktop\GitHub\Python\Customização Pycharm\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_technical-terms.dic" CustomDictionary2="C:\Users\Josue.Rosa.CETIL\Desktop\GitHub\Python\Customização Pycharm\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_technical-terms_without-accents.dic" CustomDictionary3="C:\Users\Josue.Rosa.CETIL\Desktop\GitHub\Python\Customização Pycharm\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_without-accents.dic" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Josue.Rosa.CETIL\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="eb608e9c-2968-4bc4-a124-51f6423bceeb" name="Default Changelist" comment="" />
@@ -255,25 +259,25 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605478981918" />
-    <state width="504" height="600" key="GridCell.Tab.0.bottom" timestamp="1605575374313">
+    <state width="511" height="600" key="GridCell.Tab.0.bottom" timestamp="1605578070257">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="504" height="600" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1474.864@0.0.1366.728" timestamp="1605575374313" />
+    <state width="511" height="600" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1474.864@0.0.1366.728" timestamp="1605578070257" />
     <state width="676" height="257" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605502247590" />
-    <state width="504" height="600" key="GridCell.Tab.0.center" timestamp="1605575374312">
+    <state width="511" height="600" key="GridCell.Tab.0.center" timestamp="1605578070257">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="504" height="600" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1474.864@0.0.1366.728" timestamp="1605575374312" />
+    <state width="511" height="600" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1474.864@0.0.1366.728" timestamp="1605578070257" />
     <state width="676" height="257" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605502247590" />
-    <state width="504" height="600" key="GridCell.Tab.0.left" timestamp="1605575374312">
+    <state width="511" height="600" key="GridCell.Tab.0.left" timestamp="1605578070257">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="504" height="600" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1474.864@0.0.1366.728" timestamp="1605575374312" />
+    <state width="511" height="600" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1474.864@0.0.1366.728" timestamp="1605578070257" />
     <state width="676" height="257" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605502247590" />
-    <state width="504" height="600" key="GridCell.Tab.0.right" timestamp="1605575374313">
+    <state width="511" height="600" key="GridCell.Tab.0.right" timestamp="1605578070257">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="504" height="600" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1474.864@0.0.1366.728" timestamp="1605575374313" />
+    <state width="511" height="600" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1474.864@0.0.1366.728" timestamp="1605578070257" />
     <state width="676" height="257" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605502247590" />
     <state width="1323" height="402" key="GridCell.Tab.1.bottom" timestamp="1605572009797">
       <screen x="0" y="0" width="1366" height="728" />
