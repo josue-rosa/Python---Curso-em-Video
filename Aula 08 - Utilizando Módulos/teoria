@@ -6,7 +6,7 @@ ceil - arredondamento para cima
 floor - arredondamento para baixo
 trunc - eliminar da virgula para frente
 pow - potencia
-sqrt - caliular a raiz quadrada
+sqrt - calcular a raiz quadrada
 factorial - calculo de fatorial
 
 importar funções especificas do modulo "math"
