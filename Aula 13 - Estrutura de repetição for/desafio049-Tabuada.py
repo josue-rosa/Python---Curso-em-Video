@@ -1,3 +1,3 @@
-numero = int(input('Informe um numero para a tabuada: '))
-for c in range(1, 11):
-    print(f'{numero} x {c:2} = {numero * c}')
+num = int(input('Informe um número para ver a tabuada. '))
+for c in range(0, 11):
+    print(f' {num} x {c:2} = {num * c}')
