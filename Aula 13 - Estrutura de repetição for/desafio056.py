@@ -29,6 +29,6 @@ for c in range(1, 5):
         total_mulher += 1
 
 # media_idade = soma_idade / 4
-print(f'A média de idade do grupo é de {soma_idade /4}')
+print(f'A média de idade do grupo é de {soma_idade / 4}')
 print(f'O nome do homem mais velho é {nome_mais_velho}')
 print(f'{total_mulher} mulheres tem menos de 20 anos')
