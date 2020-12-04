@@ -21,9 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="eb608e9c-2968-4bc4-a124-51f6423bceeb" name="Default Changelist" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio047.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio047.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio048.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio048.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio049-Tabuada.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio049-Tabuada.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio050.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio050.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio053.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio053.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -64,49 +63,7 @@
       <recent name="C:\Users\Josue.Rosa.CETIL\Desktop\GitHub\Python\Python---Curso-em-Video\Aula 13 - Estrutura de repetição for" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.desafio049-Tabuada">
-    <configuration name="desafio046-Fogos de artificio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python---Curso-em-Video" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio046-Fogos de artificio.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="desafio047" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python---Curso-em-Video" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio047.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.desafio053">
     <configuration name="desafio048" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python---Curso-em-Video" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio056" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="desafio050" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python---Curso-em-Video" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -161,7 +118,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio056.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio050.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio052" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python---Curso-em-Video" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio052.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio053" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python---Curso-em-Video" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 13 - Estrutura de repetição for/desafio053.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.desafio053" />
+        <item itemvalue="Python.desafio052" />
+        <item itemvalue="Python.desafio050" />
         <item itemvalue="Python.desafio049-Tabuada" />
         <item itemvalue="Python.desafio048" />
-        <item itemvalue="Python.desafio047" />
-        <item itemvalue="Python.desafio046-Fogos de artificio" />
-        <item itemvalue="Python.desafio056" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605526662805</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update">
+      <created>1607000175416</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1607000175416</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
