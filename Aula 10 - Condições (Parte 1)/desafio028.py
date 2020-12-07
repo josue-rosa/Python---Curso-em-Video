@@ -9,7 +9,7 @@ print('Pensei em um numero entre 0 e 5')
 computer = random.randint(0, 5)
 jogador = int(input('Digite o seu numero: '))
 print('Processando...')
-sleep(1)
+sleep(0.5)
 if jogador == computer:
     print('Acertou. Parabens! ')
 else:
