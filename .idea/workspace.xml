@@ -20,9 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb608e9c-2968-4bc4-a124-51f6423bceeb" name="Default Changelist" comment="update">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Aula 14 - Estrutura de repetição while/desafio060.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 14 - Estrutura de repetição while/desafio060.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 14 - Estrutura de repetição while/desafio063.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 14 - Estrutura de repetição while/desafio063.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 14 - Estrutura de repetição while/desafio064.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 14 - Estrutura de repetição while/desafio064.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 14 - Estrutura de repetição while/desafio065.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 14 - Estrutura de repetição while/desafio065.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

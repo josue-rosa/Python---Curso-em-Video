@@ -12,4 +12,4 @@ while True:
 
 num = int(input('Informe o numero'))
 for c in range(num, -1, -1):
-    fat =
+    pass
