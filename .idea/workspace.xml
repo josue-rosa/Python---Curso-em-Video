@@ -21,10 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="eb608e9c-2968-4bc4-a124-51f6423bceeb" name="Default Changelist" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 14 - Estrutura de repetição while/desafio060.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 14 - Estrutura de repetição while/desafio060.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 14 - Estrutura de repetição while/desafio061.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 14 - Estrutura de repetição while/desafio061.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 14 - Estrutura de repetição while/desafio064.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 14 - Estrutura de repetição while/desafio064.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 14 - Estrutura de repetição while/desafio065.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 14 - Estrutura de repetição while/desafio065.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,8 +62,8 @@
       <recent name="C:\Users\Josue.Rosa.CETIL\Desktop\GitHub\Python\Python---Curso-em-Video" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.desafio065">
-    <configuration name="desafio059" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.desafio066">
+    <configuration name="Aula15a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python---Curso-em-Video" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,32 +71,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 14 - Estrutura de repetição while" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 15 - Interrompendo repetições while" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 14 - Estrutura de repetição while/desafio059.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="desafio060" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python---Curso-em-Video" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 14 - Estrutura de repetição while" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 14 - Estrutura de repetição while/desafio060.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 15 - Interrompendo repetições while/Aula15a.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,13 +147,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="desafio066" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python---Curso-em-Video" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 15 - Interrompendo repetições while" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 15 - Interrompendo repetições while/desafio066.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.desafio066" />
+        <item itemvalue="Python.Aula15a" />
         <item itemvalue="Python.desafio065" />
         <item itemvalue="Python.desafio064" />
         <item itemvalue="Python.desafio061" />
-        <item itemvalue="Python.desafio060" />
-        <item itemvalue="Python.desafio059" />
       </list>
     </recent_temporary>
   </component>
