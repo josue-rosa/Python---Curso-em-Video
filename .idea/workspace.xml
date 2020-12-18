@@ -21,9 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="eb608e9c-2968-4bc4-a124-51f6423bceeb" name="Default Changelist" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 15 - Interrompendo repetições while/desafio066.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 15 - Interrompendo repetições while/desafio066.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 15 - Interrompendo repetições while/desafio067.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 15 - Interrompendo repetições while/desafio067.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 15 - Interrompendo repetições while/desafio068.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 15 - Interrompendo repetições while/desafio068.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Aula 15 - Interrompendo repetições while/desafio069.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 15 - Interrompendo repetições while/desafio069.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Aula 15 - Interrompendo repetições while/desafio070.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 15 - Interrompendo repetições while/desafio070.py" afterDir="false" />
     </list>
@@ -68,7 +65,7 @@
       <recent name="C:\Users\Josue.Rosa.CETIL\Desktop\GitHub\Python\Python---Curso-em-Video" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.desafio068">
+  <component name="RunManager" selected="Python.desafio070">
     <configuration name="desafio066" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python---Curso-em-Video" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -176,10 +173,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.desafio068" />
-        <item itemvalue="Python.desafio067" />
         <item itemvalue="Python.desafio070" />
         <item itemvalue="Python.desafio069" />
+        <item itemvalue="Python.desafio068" />
+        <item itemvalue="Python.desafio067" />
         <item itemvalue="Python.desafio066" />
       </list>
     </recent_temporary>
